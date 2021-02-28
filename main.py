@@ -1,7 +1,7 @@
 import pygame
 import sys
 import os
-import time
+importtime
 
 
 def load_image(name, colorkey=None):
